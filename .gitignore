@@ -1,0 +1,23 @@
+# Zależności
+**/node_modules/
+
+# Hasła i konfiguracja lokalna
+**/.env
+**/.env.*
+!**/.env.example
+
+# Pliki wynikowe
+**/dist/
+**/build/
+**/coverage/
+**/.cache/
+
+# Logi
+*.log
+
+# Baza wyeksportowana z XAMPP
+*.sql
+
+# Pliki systemowe
+.DS_Store
+Thumbs.db
