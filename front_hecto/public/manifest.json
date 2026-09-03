@@ -1,0 +1,25 @@
+{
+  "short_name": "Hecto",
+  "name": "Hecto Shop",
+  "icons": [
+    {
+      "src": "assets/hecto-cat-logo.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/hecto-cat-logo.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "assets/hecto-cat-logo.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#060708",
+  "background_color": "#060708"
+}
